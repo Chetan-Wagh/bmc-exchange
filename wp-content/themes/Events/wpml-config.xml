@@ -1,0 +1,7 @@
+<wpml-config>
+  <admin-texts>
+    <key name="theme_mods_Events">
+      <key name="events_copyright_text"/>
+    </key>
+  </admin-texts>
+</wpml-config>
