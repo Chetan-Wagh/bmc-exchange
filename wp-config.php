@@ -17,7 +17,7 @@
  *
  * @package WordPress
  */
-// Comment Test by KT removed
+// Comment Test by KT removed to check last
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'bmc_exchange_new');
