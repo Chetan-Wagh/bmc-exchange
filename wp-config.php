@@ -17,6 +17,7 @@
  *
  * @package WordPress
  */
+// Sorry to change working copy one step earlier
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'bmc_exchange_new');
